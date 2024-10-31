@@ -1,0 +1,128 @@
+# SD Simple Antispam
+# Copyright (C) 2011
+# This file is distributed under the GPL v3.
+# Sverigedemokraterna IT <it@sverigedemokraterna.se>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SD Simple Antispam\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-1 09:30+0200\n"
+"PO-Revision-Date: 2011-10-1 09:30+0200\n"
+"Last-Translator: Sverigedemokraterna IT <it@sverigedemokraterna.se>\n"
+"Language-Team: Sverigedemokraterna IT <it@sverigedemokraterna.se>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: SD_Simple_Antispam.php:309
+msgid "Author"
+msgstr ""
+
+#: SD_Simple_Antispam.php:310
+msgid "Author URL"
+msgstr ""
+
+#: SD_Simple_Antispam.php:296
+msgid "Author URL was not left empty."
+msgstr ""
+
+#: SD_Simple_Antispam.php:102
+#, php-format
+msgid "Check that the user left the website address empty. Use CSS in your theme to hide the paragraph class %s."
+msgstr ""
+
+#: SD_Simple_Antispam.php:188
+msgid "Do not write anything here"
+msgstr ""
+
+#: SD_Simple_Antispam.php:195
+msgid "Do not write anything here either"
+msgstr ""
+
+#: SD_Simple_Antispam.php:110 SD_Simple_Antispam.php:127
+msgid "Extra fields"
+msgstr ""
+
+#: SD_Simple_Antispam.php:130
+msgid "Extra, invisible fields are inserted into the comment form. Bots will either omit these fields or fill them in, which will result in rejection of the comment."
+msgstr ""
+
+#: SD_Simple_Antispam.php:149
+msgid "Logging"
+msgstr ""
+
+#: SD_Simple_Antispam.php:100 SD_Simple_Antispam.php:138
+msgid "No author website"
+msgstr ""
+
+#: SD_Simple_Antispam.php:57 SD_Simple_Antispam.php:58
+msgid "SD Simple Antispam"
+msgstr ""
+
+#: SD_Simple_Antispam.php:75
+msgid "Settings"
+msgstr ""
+
+#: SD_Simple_Antispam.php:223
+msgid "Shows a summary of the comment marked as spam."
+msgstr ""
+
+#: SD_Simple_Antispam.php:111
+msgid "Some invisible fields are placed in the comment box that are suppose to be left empty. Some spambots will automatically fill in these fields with text."
+msgstr ""
+
+#: SD_Simple_Antispam.php:311
+msgid "Spam"
+msgstr ""
+
+#: SD_Simple_Antispam.php:222
+msgid "Spam found"
+msgstr ""
+
+#: SD_Simple_Antispam.php:251
+msgid "Stopped spam on %blog_name_with_panel_link%"
+msgstr ""
+
+#: SD_Simple_Antispam_Base.php:406
+msgid "Super admin"
+msgstr ""
+
+#: SD_Simple_Antispam.php:141
+msgid "The author website must be left empty for the comment to pass. If you use this setting, don't forget to hide the author url field in your theme's CSS file."
+msgstr ""
+
+#: SD_Simple_Antispam.php:286
+msgid "The extra fields did not exist."
+msgstr ""
+
+#: SD_Simple_Antispam.php:279
+msgid "The extra fields were not empty."
+msgstr ""
+
+#: SD_Simple_Antispam.php:124
+msgid "The following techniques are available to help block spam."
+msgstr ""
+
+#: SD_Simple_Antispam.php:93
+msgid "The settings have been saved! If you use a caching plugin, clear the cache now."
+msgstr ""
+
+#: SD_Simple_Antispam.php:153
+#, php-format
+msgid "This plugin uses %sThreeWP Activity Monitor%s to log activity."
+msgstr ""
+
+#: SD_Simple_Antispam.php:78
+msgid "Uninstall"
+msgstr ""
+
+#: SD_Simple_Antispam.php:117
+msgid "Update settings"
+msgstr ""
+
+#: SD_Simple_Antispam.php:127
+msgid "recommended"
+msgstr ""
